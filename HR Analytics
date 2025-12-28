@@ -1,9 +1,1 @@
-📊 HR Analytics Dashboard 
-- Built an interactive Power BI dashboard to analyze HR data and workforce trends.
-- Calculated key metrics such as Headcount, Attrition Count, and Attrition Rate (%) using DAX.
-- Analyzed employee attrition across departments, age groups, gender, and experience levels.
-- Visualized headcount distribution to understand workforce composition.
-- Performed data auditing by validating employee counts and checking for data inconsistencies.
-- Used appropriate visualizations (cards, bar charts, donut charts, slicers) for clear comparison.
-- Enabled interactive filtering to support drill-down analysis.
-- Delivered business-ready insights to support HR decision-making and retention strategies.
+
